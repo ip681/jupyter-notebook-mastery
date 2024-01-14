@@ -9,7 +9,7 @@ Problem solving with data
 • Defining hypotheses;
 • JN as a research tool.
 
-Introduction to Jupyter Notebook
+### Introduction to Jupyter Notebook
 
 • What to expect from the Jupyter Notebook Mastery course;
 • What is project Jupyter?;
@@ -18,7 +18,7 @@ Introduction to Jupyter Notebook
 • Creating, modifying, and executing notebook cells;
 • When to use JN and when not.
 
-Principles of Numpy
+### Principles of Numpy
 
 • What is NumPy?;
 • NumPy arrays vs. Python lists;
@@ -28,7 +28,7 @@ Principles of Numpy
 • Array arithmetic (element-wise operations);
 • Aggregation and statistical functions.
 
-Principles of Pandas
+### Principles of Pandas
 
 • What is Pandas?;
 • Pandas Series and DataFrames;
@@ -39,7 +39,7 @@ Principles of Pandas
 • Data types and conversion;
 • Data aggregation and groupby operations.
 
-Principles of Matplotlib
+### Principles of Matplotlib
 
 • What is Matplotlib?;
 • Creating and customizing basic plots (line plots and scatter plots);
@@ -50,7 +50,7 @@ Principles of Matplotlib
 • Plotting categorical data (bar charts and pie charts);
 • Plotting time series data.
 
-Data storytelling
+### Data storytelling
 
 • The importance of data storytelling in decision-making;
 • Identifying the story in data;
