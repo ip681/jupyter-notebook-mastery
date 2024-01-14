@@ -2,12 +2,12 @@
 
 Problem solving with data
 
-• The art of defining problems;
-• Setting goals with respect to а problem;
-• Finding suitable data with respect to the goals;
-• Scientific approach to problem solving;
-• Defining hypotheses;
-• JN as a research tool.
+• The art of defining problems; <br>
+• Setting goals with respect to а problem; <br>
+• Finding suitable data with respect to the goals;<br>
+• Scientific approach to problem solving;<br>
+• Defining hypotheses;<br>
+• JN as a research tool.<br>
 
 ### Introduction to Jupyter Notebook
 
